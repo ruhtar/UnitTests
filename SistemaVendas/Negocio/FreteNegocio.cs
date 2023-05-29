@@ -8,14 +8,11 @@ namespace SistemaVendas
             {
                 return 0.00m;
             }
-            else if(distanciaKm > 5 && distanciaKm < 15)
+            if(distanciaKm < 15)
             {
                 return 10.00m;
             }
-            else
-            {
-                return 30.00m;
-            }
+            return 30.00m;
         }
     }
 }

@@ -1,0 +1,14 @@
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp3.1\SistemaVendas.exe
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp3.1\SistemaVendas.deps.json
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp3.1\SistemaVendas.runtimeconfig.json
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp3.1\SistemaVendas.runtimeconfig.dev.json
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp3.1\SistemaVendas.dll
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp3.1\SistemaVendas.pdb
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\SistemaVendas.csproj.AssemblyReference.cache
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\SistemaVendas.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\SistemaVendas.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\SistemaVendas.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\SistemaVendas.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\SistemaVendas.dll
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\SistemaVendas.pdb
+D:\PROGRAMAÇÃO\Projetos\testes-com-xunit\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\SistemaVendas.genruntimeconfig.cache
